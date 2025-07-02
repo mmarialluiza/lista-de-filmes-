@@ -1,3 +1,28 @@
 body{
-    color:rgba(132, 27, 27, 0.862)
+    background-color: rgb(5, 81, 19);
+    color:rgba(0, 0, 0, 0.972);
+  font-family: "IBM Plex Serif", serif;
+  margin: 10px;
+}
+
+header{
+    border-bottom: solid 5px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+}
+
+h1{
+    font-size 32px;
+}
+
+p{
+    font-size: 20px;
+}
+
+section{
+    background-color: rgb(12, 97, 42);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
 }
